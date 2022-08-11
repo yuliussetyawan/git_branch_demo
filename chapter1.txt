@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a main plot
+=======
+this is alien plot
+>>>>>>> alien-plot

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is main plot part 2
+=======
+alien is a space creature
+>>>>>>> alien-plot
