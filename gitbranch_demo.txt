@@ -2,8 +2,6 @@ How to git branch:
 1. git branch branch-name (create branch)
 2. git branch (see branch)
 3. git checkout branch-name (move branch)
-<<<<<<< HEAD
-4. git merge branch-name
-=======
-4. 
->>>>>>> alien-plot
+4. git merge branch-name (merge branch with main)
+5. git push origin branch-name (push brance to github)
+
