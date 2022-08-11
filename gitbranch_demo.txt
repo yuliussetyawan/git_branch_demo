@@ -1,0 +1,5 @@
+How to git branch:
+1. git branch branch-name (create branch)
+2. git branch (see branch)
+3. git checkout branch-name (move branch)
+4. 
